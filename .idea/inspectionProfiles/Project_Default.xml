@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="SelectVCR.line" />
+          <option value="train._exp_name" />
+          <option value="test._exp_name" />
+          <option value="test.test_dataloader" />
+          <option value="test.test_loader" />
+          <option value="test.imgs" />
+          <option value="pkl.model" />
+          <option value="pkl.data_transforms" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
