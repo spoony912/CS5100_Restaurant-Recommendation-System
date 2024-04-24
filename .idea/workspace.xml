@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47c2eec7-a09a-45a0-b8f8-a2317ade676b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/classComparator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/dataSet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/attrExtractor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/categoryExtractor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/dataExtractor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mongoImport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/business.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hours.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/csv/categories.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/json/attr_data_dump.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/json/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/json/reviews-sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/json/reviews_business_model.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/unittest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/errorCheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/jsonToObject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/valueExtractor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knn.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/knn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2fWwYQmaP7QY1K4yDVYl3BssYjU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/TR's/NEU/2nd Semester/CS 5100/finalproject"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Program Files (x86)\Python3.10\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47c2eec7-a09a-45a0-b8f8-a2317ade676b" name="Changes" comment="" />
+      <created>1713930188156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713930188156</updated>
+    </task>
+    <servers />
+  </component>
+</project>

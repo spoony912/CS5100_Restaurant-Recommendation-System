@@ -1,6 +1,6 @@
 import operator
 
-from FAIproject.algorithm.classComparator import ClassComparator
+from algorithm.classComparator import ClassComparator
 
 
 class Knn(object):
