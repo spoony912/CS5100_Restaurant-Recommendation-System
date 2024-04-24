@@ -1,11 +1,11 @@
 import importlib
 import sys
-from algorithm.dataSet import DataSet
-from algorithm.knn import Knn
-from util.errorCheck import getRating, MAE
-from plots.bubblePlot import BubblePlot
+from FAIproject.algorithm.dataSet import DataSet
+from FAIproject.algorithm.knn import Knn
+from FAIproject.util.errorCheck import getRating, MAE
 
-from settings import SYS_ENCODING_UTF, JSON_FILE_PATH, JSON_FILE_NAME, PLOT_RESULTS, DISTANCE_TO_FILTER, TIME_TO_FILTER, \
+
+from FAIproject.settings import SYS_ENCODING_UTF, JSON_FILE_PATH, JSON_FILE_NAME, PLOT_RESULTS, \
     KNN_NEIGHBOURS, ENABLE_DISTANCE_FILTER, ENABLE_TIME_FILTER
 
 importlib.reload(sys)
